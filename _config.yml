@@ -1,0 +1,28 @@
+name: Some Place in the Middle
+favicon: null
+layout_spectrum: 0.1187124967109412
+typography_spectrum: 0.1037394308950752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4776541138999164
+  lightness: 0.05198596720583737
+  saturation: 0.807229820638895
+  rhythmicContrast: 0.3539422207977623
+purpose: []
